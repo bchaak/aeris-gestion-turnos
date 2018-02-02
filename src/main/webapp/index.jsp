@@ -8,7 +8,7 @@
   <meta name="description" content="How to align navbar-nav on the right side of nav. This replaces Bootstrap 3 navbar-right class. Updated for Bootstrap 4 beta." />
   <meta name="google" value="notranslate">
   <link rel="shortcut icon" href="images/cp_ico.png">
-  <link rel="stylesheet" href="http:/maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="resources/css/bootstrap/bootstrap.min.css" />
    <link rel="stylesheet" href="resources/css/main.css"  />
   <style type="text/css"></style>
 
